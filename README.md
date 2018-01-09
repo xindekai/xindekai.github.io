@@ -1,3 +1,7 @@
+## OSSU Computer Science
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+That's my program!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xindekai/xindekai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
