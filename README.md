@@ -4,7 +4,7 @@ Even if I don't make the Founders and Coders intake it has been a real and fun c
 
 ## OSSU Computer Science
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-That's a program of study I am slowly working through.
+A great program of study I am slowly working through.
 
 I love the rigour and seriousness of OSSU CS. I hope I do well on it and learn lots.
 
